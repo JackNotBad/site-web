@@ -19,6 +19,6 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
-'''css
+```css
 body {color : green;}
-'''
+```
